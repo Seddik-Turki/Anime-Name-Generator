@@ -7,4 +7,4 @@ This project uses a character-level language model to generate new anime names. 
 The anime names can be found in the `anime.txt` file, names i have collected from the internet feel free to add new ones 
 
 ## Results
-![Gnerated Names](images/.png)
+![Gnerated Names](images/generations.png)
